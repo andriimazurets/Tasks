@@ -23,3 +23,15 @@ Task:
      Sample Output [ ["eat", "tea", "ate"] , ["tan,"nat"] , ["bat"] ]
 
 Answer: [ThirdTask](https://github.com/andriimazurets/Tasks/blob/master/src/main/kotlin/ThirdTask.kt)
+
+
+### 4. 
+Task:
+
+     The longest word
+     For a given input string of words, create a function that returns the longest word in the string.
+     For example, for the input phrase “I love Google.” the output should be “Google”.
+     For an added challenge, you can create an output that lists the longest word along with the number of characters in the word.
+     So, for the string “I love Google...” the output would look something like, “word: Google count: 6.”
+
+Answer: [FourthTask](https://github.com/andriimazurets/Tasks/blob/master/src/main/kotlin/FourthTask.kt)
