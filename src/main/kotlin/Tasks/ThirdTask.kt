@@ -1,3 +1,5 @@
+package Tasks
+
 fun main() {
     /**
      * Sample Input ["eat","tea","tan","ate","nat","bat"]

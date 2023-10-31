@@ -1,3 +1,5 @@
+package Tasks
+
 import kotlin.math.min
 
 fun main() {

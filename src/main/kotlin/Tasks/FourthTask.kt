@@ -1,3 +1,5 @@
+package Tasks
+
 // The longest word
 //For a given input string of words, create a function that returns the longest word in the string.
 //For example, for the input phrase “I love Google.” the output should be “Google”.

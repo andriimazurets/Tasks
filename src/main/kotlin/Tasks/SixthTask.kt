@@ -1,3 +1,5 @@
+package Tasks
+
 import java.util.Scanner
 
 // Steps
@@ -6,7 +8,7 @@ import java.util.Scanner
 //‘#‘
 //‘##’
 //‘###’
-fun main(){
+fun main() {
     val num = Scanner(System.`in`)
     println(stepBuilder(num.nextInt()))
 }

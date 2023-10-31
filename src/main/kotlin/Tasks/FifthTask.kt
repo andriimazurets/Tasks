@@ -1,3 +1,5 @@
+package Tasks
+
 // The FizzBuzz challenge is a popular problem in technical interviews.
 // For a given maximum input value n, create a function that outputs integers from 1 to n.
 // But, if an integer is divisible by three, then the number should be replaced with the word “Fizz.”
