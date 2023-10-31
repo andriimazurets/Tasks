@@ -35,3 +35,16 @@ Task:
      So, for the string “I love Google...” the output would look something like, “word: Google count: 6.”
 
 Answer: [FourthTask](https://github.com/andriimazurets/Tasks/blob/master/src/main/kotlin/FourthTask.kt)
+
+
+### 5. 
+Task:
+
+     The FizzBuzz challenge is a popular problem in technical interviews.
+     For a given maximum input value n, create a function that outputs integers from 1 to n.
+     But, if an integer is divisible by three, then the number should be replaced with the word “Fizz.”
+     Numbers divisible by five should say “Buzz” instead. And numbers divisible by both three and five should say “FizzBuzz.”
+     For example, with an input of 17, the output should be:
+     [1, 2 , ”Fizz”, 4, “Buzz”, “Fizz”, 7, 8, “Fizz“, “Buzz“, 11, “Fizz”, 13, 14, “FizzBuzz”, 16, 17]
+
+Answer: [FifthTask](https://github.com/andriimazurets/Tasks/blob/master/src/main/kotlin/FifthTask.kt)
