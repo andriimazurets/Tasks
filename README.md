@@ -48,3 +48,16 @@ Task:
      [1, 2 , ”Fizz”, 4, “Buzz”, “Fizz”, 7, 8, “Fizz“, “Buzz“, 11, “Fizz”, 13, 14, “FizzBuzz”, 16, 17]
 
 Answer: [FifthTask](https://github.com/andriimazurets/Tasks/blob/master/src/main/kotlin/FifthTask.kt)
+
+
+### 6. 
+Task:
+
+     Steps
+     For a given integer input n, create a function that returns a string output of generated steps using the # character.
+     For example, for an input of 3, the output should look like:
+     ‘#‘
+     ‘##’
+     ‘###’
+
+Answer: [SixthTask](https://github.com/andriimazurets/Tasks/blob/master/src/main/kotlin/SixthTask.kt)
