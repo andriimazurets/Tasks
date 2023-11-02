@@ -66,13 +66,13 @@ Answer: [SixthTask](https://github.com/andriimazurets/Tasks/blob/master/src/main
 ### 7. 
 Task:
 
-     // Create an array of 15 integers
-     // Enter values into it from the keyboard.
-     // Let the array element index be the house number, and the value be the number of residents living in the house.
-     // Houses with odd numbers are located at one Side of the Street, and houses with even numbers on the other.
-     // Find out which side of the street has more residents.
-     // Display the message: "Houses with odd numbers have more residents."
-     // or "Houses with even numbers have more residents."
-     // Note: a house with serial number 0 is considered even
+     Create an array of 15 integers
+     Enter values into it from the keyboard.
+     Let the array element index be the house number, and the value be the number of residents living in the house.
+     Houses with odd numbers are located at one Side of the Street, and houses with even numbers on the other.
+     Find out which side of the street has more residents.
+     Display the message: "Houses with odd numbers have more residents."
+     or "Houses with even numbers have more residents."
+     Note: a house with serial number 0 is considered even
 
 Answer: [SeventhTask](https://github.com/andriimazurets/Tasks/blob/master/src/main/kotlin/Tasks/SeventhTask.kt)
